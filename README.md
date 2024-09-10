@@ -1,0 +1,1 @@
+Going over my learning so far on The Odin Project covering my knowledge of HTML.
